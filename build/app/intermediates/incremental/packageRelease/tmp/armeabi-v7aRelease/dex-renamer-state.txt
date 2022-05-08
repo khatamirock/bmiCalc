@@ -1,0 +1,4 @@
+#Wed Feb 02 20:34:37 BDT 2022
+base.0=C\:\\Users\\HP\\Desktop\\bmicalc\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,6 @@
+# Referenced at C:\Users\HP\Desktop\bmicalc\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\HP\Desktop\bmicalc\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:29
+-keep class co.appbrewery.bmicalculator.MainActivity { <init>(); }
+# Referenced at C:\Users\HP\Desktop\bmicalc\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(); }
